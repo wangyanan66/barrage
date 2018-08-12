@@ -1,0 +1,35 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.dm {
+  width: 800px;
+  height:600px;
+  background-color:blue;
+  margin: 0 auto;
+}
+.box {
+  height: 500px;
+  background-color:#000;
+  position:relative;
+  overflow: hidden;
+}
+.info {
+  text-align:center;
+  margin-top:20px;
+}
+
+input[type=text] {
+  width: 500px;
+  height: 50px;
+}
+input[type=button] {
+  height: 50px;
+  width: 100px;
+
+}
+span {
+  position:absolute;
+  
+}
